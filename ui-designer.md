@@ -1,8 +1,5 @@
 ---
 layout: page
-title: UI Designer
-subtitle: Project: Digital Style Guide
-
 ---
 
 # UI Designer
