@@ -8,6 +8,7 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
+  font-weight: 300;
 }
 p {
   line-height: 1.5;
