@@ -12,7 +12,7 @@ The Daily Texan is shifting its focus to digital! We are looking for a talented 
 - Flexible hours: You have complete control over when you work. Busy week? No problem. 
 - A collaborative experience with mentorship: Work directly with and learn from the web director and a UI Designer
 - A finished product: Add those mockups and writeups to your portfolio when you’re done
-
+- Bonus: You'll be compensated for time and expertise 
 
 **What we’re looking for**
 - You love good design but also think about technical specs
