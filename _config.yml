@@ -23,7 +23,7 @@ description: A description of roles for The Daily Texan Web Team Fall 2017
 
 # List of links in the navigation bar
 navbar-links:
-  UI Designer: "ui-designer"
+  Visual Designer: "ui-designer"
   UX Designer: "ux-designer"
   Front End Developer: "front-end-developer"
 
