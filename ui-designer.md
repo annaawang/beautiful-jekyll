@@ -3,9 +3,9 @@ layout: page
 use-site-title: false
 ---
 
-# UI Designer
+# Visual Designer
 
-The Daily Texan is shifting its focus to digital! We are looking for a talented interface designer who wants to lead the transformation of The Daily Texan's digital brand and online presence. 
+The Daily Texan is shifting its focus to digital! We are looking for a talented visual designer who wants to lead the transformation of The Daily Texan's digital brand and online presence. 
 
 **What you can expect**
 - An awesome project: You will lead the complete look and feel of a Digital Style Guide
