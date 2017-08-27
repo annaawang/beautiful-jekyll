@@ -12,7 +12,7 @@ The Daily Texan is shifting its focus to digital! We are looking for a talented 
 - An 8-week commitment: This is a short commitment (9/15 – 11/10) but if you’d like to stay longer, you are definitely welcome to. 
 - Flexible hours: You have complete control over when you work. Busy week? No problem. 
 - A collaborative experience with mentorship: Work directly with and learn from the web director and a UX Designer 
-- A finished product: Add that style guide to your portfolio when you’re done
+- A finished product: Add a finished product to your portfolio at the end of the 8 weeks
 - Bonus: You'll be compensated for time and expertise 
 
 **What we’re looking for**
